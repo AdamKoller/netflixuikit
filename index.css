@@ -1,0 +1,84 @@
+/* navbar */
+.nav-wrapper {
+  height: 80px;
+  border-bottom: 3px solid #0D0D0D;
+}
+.logo img {
+  height: 80px;
+  width: 150px;
+}
+.uk-navbar-container:not(.uk-navbar-transparent) {
+  background: #0D0D0D !important;
+}
+.browse a{
+  color: #F2071B !important;
+}
+/* header */
+#large-img {
+  background: rgb(13,13,13);
+  background: -moz-linear-gradient(180deg, rgba(13,13,13,1) 0%, rgba(107,114,115,0) 100%, rgba(255,255,255,1) 100%),url('../img/aliencovenant.jpeg');
+  background: -webkit-linear-gradient(180deg, rgba(13,13,13,1) 0%, rgba(107,114,115,0) 100%, rgba(255,255,255,1) 100%),url('../img/aliencovenant.jpeg');
+  background: linear-gradient(180deg, rgba(13,13,13,1) 0%, rgba(107,114,115,0) 100%, rgba(255,255,255,1) 100%),url('../img/aliencovenant.jpeg');
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0d0d0d",endColorstr="#ffffff",GradientType=1);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 70vh;
+}
+.alien {
+  letter-spacing: 50px;
+  color:#fff;
+}
+.covenant {
+  font-size: 16px;
+  color:#fff;
+  letter-spacing: 33px;
+}
+.stars {
+  margin-right: 0px !important;
+  font-size: 20px;
+}
+.stars .star{
+  color:#F2071B;
+}
+.ratings-wrapper {
+
+}
+.ratings {
+  margin-right: 64px;
+}
+.rated {
+  margin-right: 39px;
+  font-size: 20px;
+  color: #fff;
+}
+.definition {
+  color: #000;
+  background: #fff;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 3px 3px 3px 10px;
+  margin-right: 10px;
+}
+.ratio {
+  color: #000;
+  background: #fff;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 3px;
+}
+.heading-description {
+  color: #fff;
+  letter-spacing: 1px;
+}
+.play-box-wrapper {
+  width: 40px;
+}
+.play-box {
+  background: #fff;
+  color: #000;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 20px;
+}
