@@ -16,9 +16,9 @@
 /* header */
 #large-img {
   background: rgb(13,13,13);
-  background: -moz-linear-gradient(180deg, rgba(13,13,13,1) 0%, rgba(107,114,115,0) 100%, rgba(255,255,255,1) 100%),url('../img/aliencovenant.jpeg');
-  background: -webkit-linear-gradient(180deg, rgba(13,13,13,1) 0%, rgba(107,114,115,0) 100%, rgba(255,255,255,1) 100%),url('../img/aliencovenant.jpeg');
-  background: linear-gradient(180deg, rgba(13,13,13,1) 0%, rgba(107,114,115,0) 100%, rgba(255,255,255,1) 100%),url('../img/aliencovenant.jpeg');
+  background: -moz-linear-gradient(180deg, rgba(13,13,13,1) 0%, rgba(107,114,115,0) 100%, rgba(255,255,255,1) 100%),url('aliencovenant.jpeg');
+  background: -webkit-linear-gradient(180deg, rgba(13,13,13,1) 0%, rgba(107,114,115,0) 100%, rgba(255,255,255,1) 100%),url('aliencovenant.jpeg');
+  background: linear-gradient(180deg, rgba(13,13,13,1) 0%, rgba(107,114,115,0) 100%, rgba(255,255,255,1) 100%),url('aliencovenant.jpeg');
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0d0d0d",endColorstr="#ffffff",GradientType=1);
   -webkit-background-size: cover;
   -moz-background-size: cover;
